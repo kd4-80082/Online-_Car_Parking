@@ -1,0 +1,14 @@
+table{
+    background-color: white;
+}
+thead, tbody{
+    color: black;
+}
+
+.square {
+   /* Adjust width as needed */
+    /* Adjust height as needed */
+    background-color: #fffda4; /* Adjust background color as needed */
+    text-align: 'center',
+
+}
